@@ -1,0 +1,2 @@
+Commande pour exécuter : 
+g++ main2.cpp predictor.cpp predictor.hpp --std=c++11 -lCGAL -lgmp -frounding-math
